@@ -1,4 +1,13 @@
 #list{
-    font-size: 80px;
-    background-color: antiquewhite
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    height: 900px;
+}
+
+h3{
+    margin: 0;
+    padding:0;
 }
